@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/getspotterapp/static/css/main.6fe251c5.chunk.css",
-    "main.js": "/getspotterapp/static/js/main.16225066.chunk.js",
-    "main.js.map": "/getspotterapp/static/js/main.16225066.chunk.js.map",
+    "main.css": "/getspotterapp/static/css/main.3154d0e5.chunk.css",
+    "main.js": "/getspotterapp/static/js/main.e93fdded.chunk.js",
+    "main.js.map": "/getspotterapp/static/js/main.e93fdded.chunk.js.map",
     "runtime-main.js": "/getspotterapp/static/js/runtime-main.ea9cb4f0.js",
     "runtime-main.js.map": "/getspotterapp/static/js/runtime-main.ea9cb4f0.js.map",
     "static/js/2.0c89461a.chunk.js": "/getspotterapp/static/js/2.0c89461a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.3e793226.chunk.js": "/getspotterapp/static/js/3.3e793226.chunk.js",
     "static/js/3.3e793226.chunk.js.map": "/getspotterapp/static/js/3.3e793226.chunk.js.map",
     "index.html": "/getspotterapp/index.html",
-    "static/css/main.6fe251c5.chunk.css.map": "/getspotterapp/static/css/main.6fe251c5.chunk.css.map",
+    "static/css/main.3154d0e5.chunk.css.map": "/getspotterapp/static/css/main.3154d0e5.chunk.css.map",
     "static/js/2.0c89461a.chunk.js.LICENSE.txt": "/getspotterapp/static/js/2.0c89461a.chunk.js.LICENSE.txt",
     "static/media/1.a356572c.png": "/getspotterapp/static/media/1.a356572c.png",
     "static/media/2.1a865694.png": "/getspotterapp/static/media/2.1a865694.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.ea9cb4f0.js",
     "static/js/2.0c89461a.chunk.js",
-    "static/css/main.6fe251c5.chunk.css",
-    "static/js/main.16225066.chunk.js"
+    "static/css/main.3154d0e5.chunk.css",
+    "static/js/main.e93fdded.chunk.js"
   ]
 }
