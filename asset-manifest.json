@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/getspotterapp/static/css/main.3154d0e5.chunk.css",
-    "main.js": "/getspotterapp/static/js/main.e93fdded.chunk.js",
-    "main.js.map": "/getspotterapp/static/js/main.e93fdded.chunk.js.map",
+    "main.js": "/getspotterapp/static/js/main.415c99cc.chunk.js",
+    "main.js.map": "/getspotterapp/static/js/main.415c99cc.chunk.js.map",
     "runtime-main.js": "/getspotterapp/static/js/runtime-main.ea9cb4f0.js",
     "runtime-main.js.map": "/getspotterapp/static/js/runtime-main.ea9cb4f0.js.map",
     "static/js/2.0c89461a.chunk.js": "/getspotterapp/static/js/2.0c89461a.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.ea9cb4f0.js",
     "static/js/2.0c89461a.chunk.js",
     "static/css/main.3154d0e5.chunk.css",
-    "static/js/main.e93fdded.chunk.js"
+    "static/js/main.415c99cc.chunk.js"
   ]
 }
